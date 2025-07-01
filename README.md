@@ -1,0 +1,1 @@
+# Ekstraksi-dan-Klasterisasi-Kansei-Words-dengan-Metode-Similarity
